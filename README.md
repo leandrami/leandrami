@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Hello World, my name is Leandra Michely!<br>I am a Designer with over 15 years of experience, graduated in Graphic Design from IFPE and with a postgraduate degree in UX Design.<br>I work in the creation of interfaces, visual identities and digital experiences, combining principles of design, usability and technology.<br>Constantly learning, exploring front-end, UX/UI and best development practices.</p>
+<p align="left">
+  I am a Designer with over 15 years of experience, graduated in Graphic Design from IFPE and with a postgraduate degree in UX Design. <br>
+  I work at the intersection of design and development, creating interfaces, visual identities and digital experiences grounded in usability, accessibility and technology. <br>
+  Constantly learning, exploring front-end development, UX/UI and best practices for building scalable and user-centered products. 
+</p>
 
 ###
 
@@ -10,7 +14,14 @@
 
 ###
 
-<p align="left">✨ Creating digital experiences with focus on clarity, usability and accessibility  <br>📚 Currently learning: Front-end development, UX/UI patterns and best practices  <br>🎯 Goals: Build meaningful, inclusive and user-centered digital products  <br>🧠 Strong background in design systems, visual identity and interface design  <br>💡 I believe in simple solutions, continuous learning and design as a bridge between people and technology</p>
+<p align="left">
+  ✨ Creating digital experiences with focus on clarity, usability, accessibility and clean implementation  <br>
+  📚 Currently learning: Front-end development, UX/UI patterns, component-based design and best practices  <br>
+  🎯 Goals: Build meaningful, inclusive and well-structured digital products, from concept to implementation  <br>
+  🧠 Strong background in design systems, visual identity, interface design and collaboration with developers  <br>
+  💻 Experience working with HTML, CSS, JavaScript and modern tools to translate design into functional interfaces  <br>
+  💡 I believe in simple solutions, continuous learning and design + code as a bridge between people and technology
+</p>
 
 ###
 
