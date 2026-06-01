@@ -2,8 +2,6 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
 <p align="left">
 Senior Designer with 15+ years of experience in visual communication, branding and digital interfaces.  
 Graduated in Graphic Design from IFPE and postgraduated in UX Design, currently expanding into technology and software development.
