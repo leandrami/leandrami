@@ -2,25 +2,23 @@
 
 ###
 
-<p align="left">
-  I am a Designer with over 15 years of experience, graduated in Graphic Design from IFPE and with a postgraduate degree in UX Design. <br>
-  I work at the intersection of design and development, creating interfaces, visual identities and digital experiences grounded in usability, accessibility and technology. <br>
-  Constantly learning, exploring front-end development, UX/UI and best practices for building scalable and user-centered products. 
-</p>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<p align="left">
+Senior Designer with 15+ years of experience in visual communication, branding and digital interfaces.  
+Graduated in Graphic Design from IFPE and postgraduated in UX Design, currently expanding into technology and software development.
+</p>
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">
-  ✨ Creating digital experiences with focus on clarity, usability, accessibility and clean implementation  <br>
-  📚 Currently learning: Front-end development, UX/UI patterns, component-based design and best practices  <br>
-  🎯 Goals: Build meaningful, inclusive and well-structured digital products, from concept to implementation  <br>
-  🧠 Strong background in design systems, visual identity, interface design and collaboration with developers  <br>
-  💻 Experience working with HTML, CSS, JavaScript and modern tools to translate design into functional interfaces  <br>
-  💡 I believe in simple solutions, continuous learning and design + code as a bridge between people and technology
+✨ Senior Designer focused on digital experiences, interfaces and visual systems <br>
+💻 Transitioning into software development with focus on front-end and technology products <br>
+📚 Learning and improving skills in HTML, CSS, JavaScript and modern development practices <br>
+🎯 Passionate about creating accessible, intuitive and meaningful user experiences <br>
+🧠 Strong foundation in visual hierarchy, branding, typography, design systems and UX principles <br>
+🤝 Experience collaborating with multidisciplinary teams and developers <br>
+💡 Combining design thinking and technology to build clear and functional digital solutions
 </p>
 
 ###
