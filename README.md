@@ -12,7 +12,7 @@ Graduated in Graphic Design from IFPE and postgraduated in UX Design, currently 
 <p align="left">
 ✨ Senior Designer focused on digital experiences, interfaces and visual systems <br>
 💻 Transitioning into software development with focus on front-end and technology products <br>
-📚 Learning and improving skills in HTML, CSS, JavaScript and modern development practices <br>
+📚 Improving skills in HTML, CSS, JavaScript, Python, Node JS and modern development practices <br>
 🎯 Passionate about creating accessible, intuitive and meaningful user experiences <br>
 🧠 Strong foundation in visual hierarchy, branding, typography, design systems and UX principles <br>
 🤝 Experience collaborating with multidisciplinary teams and developers <br>
