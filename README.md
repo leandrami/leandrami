@@ -34,6 +34,7 @@ Graduated in Graphic Design from IFPE, postgraduated in UX Design, currently stu
 🚀 Programming logic and application development <br>
 🚀 Modern technologies for digital products
 </p>
+
 ###
 
 <h2 align="left">I work with</h2>
