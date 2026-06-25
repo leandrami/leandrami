@@ -26,13 +26,14 @@ Graduated in Graphic Design from IFPE, postgraduated in UX Design, currently stu
 <h2 align="left">Currently learning 🚀</h2>
 
 <p align="left">
-🚀 Front-End Development <br>
-🚀 HTML, CSS, JavaScript and React <br>
 🚀 Python programming <br>
-🚀 DevOps fundamentals and modern development workflows <br>
+🚀 JavaScript and React <br>
 🚀 Software Engineering fundamentals <br>
-🚀 Programming logic and application development <br>
 🚀 Modern technologies for digital products
+🚀 Programming logic and application development <br>
+🚀 DevOps fundamentals and modern development workflows <br>
+
+
 </p>
 
 ###
