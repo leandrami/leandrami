@@ -3,9 +3,11 @@
 ###
 
 <p align="left">
-Senior Designer with 15+ years of experience in visual communication, branding and digital interfaces.  
-Graduated in Graphic Design from IFPE and postgraduated in UX Design, currently expanding into technology and software development.
+UX/UI Designer and Front-End Developer in progress, with 15+ years of experience in visual communication, branding and digital interfaces.
+<br><br>
+Graduated in Graphic Design from IFPE, postgraduated in UX Design, currently studying Analysis and Systems Development (ADS), and expanding my knowledge in software development, DevOps and technology.
 </p>
+
 
 <h2 align="left">About me</h2>
 
@@ -19,6 +21,19 @@ Graduated in Graphic Design from IFPE and postgraduated in UX Design, currently 
 💡 Combining design thinking and technology to build clear and functional digital solutions
 </p>
 
+###
+
+<h2 align="left">Currently learning 🚀</h2>
+
+<p align="left">
+🚀 Front-End Development <br>
+🚀 HTML, CSS, JavaScript and React <br>
+🚀 Python programming <br>
+🚀 DevOps fundamentals and modern development workflows <br>
+🚀 Software Engineering fundamentals <br>
+🚀 Programming logic and application development <br>
+🚀 Modern technologies for digital products
+</p>
 ###
 
 <h2 align="left">I work with</h2>
