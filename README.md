@@ -1,24 +1,26 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+<h3 align="left">
+UX/UI Designer | Full-Stack Developer in progress | Design + Technology
+</h3>
+
 ###
 
 <p align="left">
-UX/UI Designer and Front-End Developer in progress, with 15+ years of experience in visual communication, branding and digital interfaces.
+UX/UI Designer and Full-Stack Developer in progress, with 15+ years of experience in visual communication, branding and digital interfaces.
 <br><br>
 Graduated in Graphic Design from IFPE, postgraduated in UX Design, currently studying Analysis and Systems Development (ADS), and expanding my knowledge in software development, DevOps and technology.
-</p>
 
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Senior Designer focused on digital experiences, interfaces and visual systems <br>
-💻 Transitioning into software development with focus on front-end and technology products <br>
-📚 Improving skills in HTML, CSS, JavaScript, Python, Node JS and modern development practices <br>
+✨ Passionate about learning and continuous improvement <br>
+💻 Expanding into Full-Stack Development with focus on web applications and technology products <br>
 🎯 Passionate about creating accessible, intuitive and meaningful user experiences <br>
 🧠 Strong foundation in visual hierarchy, branding, typography, design systems and UX principles <br>
 🤝 Experience collaborating with multidisciplinary teams and developers <br>
-💡 Combining design thinking and technology to build clear and functional digital solutions
+💡 Combining design thinking, creativity and technology to build clear and functional digital solutions
 </p>
 
 ###
