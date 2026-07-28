@@ -42,29 +42,11 @@ Graduated in Graphic Design from IFPE, postgraduated in UX Design, currently stu
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="GitLab" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="Visual Studio" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="WordPress" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="Photoshop" />
-  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="Illustrator" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,git,gitlab,js,ts,cs,php,mysql,androidstudio,visualstudio,wordpress,html,css,bootstrap,figma,ps,ai&perline=9" />
+</p>
 
 
-###
 <table align="center" border="none">
 <tr>
 
@@ -82,8 +64,6 @@ Graduated in Graphic Design from IFPE, postgraduated in UX Design, currently stu
 
 </tr>
 </table>
-
-
 
 
 
