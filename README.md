@@ -51,8 +51,8 @@
 
 
 <p align="center">
-<img  height="130" src="https://github-readme-stats.shion.dev/api?username=leandrami&theme=material-palenight&include_all_commits=true&count_private=true"/> 
-  <img  height="130" src="https://github-readme-stats.shion.dev/api/top-langs/?username=leandrami&theme=material-palenight&layout=compact&card_width=420&langs_count=8"/>   <img  height="130" src="https://streak-stats.demolab.com/?user=leandrami&theme=material-palenight"/>
+<img  height="120" src="https://github-readme-stats.shion.dev/api?username=leandrami&theme=material-palenight&include_all_commits=true&count_private=true"/> 
+  <img  height="120" src="https://github-readme-stats.shion.dev/api/top-langs/?username=leandrami&theme=material-palenight&layout=compact&card_width=420&langs_count=8"/>   <img  height="120" src="https://streak-stats.demolab.com/?user=leandrami&theme=material-palenight"/>
 </p>
 
 
