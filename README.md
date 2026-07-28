@@ -42,44 +42,51 @@ Graduated in Graphic Design from IFPE, postgraduated in UX Design, currently stu
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="37" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="38" alt="trello logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="WordPress" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="Illustrator" />
 </div>
 
+
 ###
+<table align="center" border="none">
+<tr>
+
+<td align="center">
+<img  height="180" src="https://github-readme-stats.shion.dev/api?username=leandrami&theme=material-palenight&include_all_commits=true&count_private=true"/>
+</td>
+
+<td align="center">
+<img  height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=leandrami&theme=material-palenight&layout=compact&card_width=420&langs_count=8"/>
+</td>
+
+<td align="center">
+<img  height="180" src="https://streak-stats.demolab.com/?user=leandrami&theme=material-palenight"/>
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+
+
