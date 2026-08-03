@@ -1,5 +1,6 @@
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E65100,100:FB8C00&height=80&section=header"/>
+<p align="center">
+  <img src="banner.webp" width="100%" alt="Banner da Leandra">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=25&duration=1000&pause=1500&color=FF6C00&center=true&multiline=true&width=1000&height=100&lines=Hi%2C+I'm+Leandra+%5E%5E;Designer+%26+Developer+Software+Student)](https://git.io/typing-svg)
 
