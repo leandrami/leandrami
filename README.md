@@ -29,9 +29,9 @@
 
 <p align="left">
   <samp>
-🚀 JavaScript and React <br>
-🚀 Python programming <br>
-🚀 Software Engineering <br>
+🚀 JavaScript and React Student <br>
+🚀 Python programming Learning <br>
+🚀 Software Engineering Learning <br>
 🚀 Modern technologies for digital products <br>
 🚀 Programming logic and application development <br>
 🚀 DevOps and modern development workflows 
@@ -50,16 +50,12 @@
 
 ###
 
-
 <p align="center">
-<img  height="120" src="https://github-readme-stats.shion.dev/api?username=leandrami&theme=material-palenight&include_all_commits=true&count_private=true"/> 
-  <img  height="120" src="https://github-readme-stats.shion.dev/api/top-langs/?username=leandrami&theme=material-palenight&layout=compact&card_width=420&langs_count=8"/>   <img  height="120" src="https://streak-stats.demolab.com/?user=leandrami&theme=material-palenight"/>
+<img  height="120" src="https://github-readme-stats.shion.dev/api?username=leandrami&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true"/> 
+  <img height="120" src="https://github-readme-stats.shion.dev/api/top-langs/?username=leandrami&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>   <img  height="120" src="https://streak-stats.demolab.com/?user=leandrami&theme=great-gatsby&hide_border=false"/>
 </p>
 
 
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E65100,100:FB8C00&height=80&section=footer"/>
-
 
 
